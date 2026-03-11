@@ -8,7 +8,7 @@ const MANUAL_DATA = {
   meta: {
     title:    'Mi Manual ALM',
     subtitle: 'Jefatura de Almacén Local de Medicamentos',
-    author:   'NelSystems — Área de Salud Goicoechea 1',
+    author:   'NelSystems — Apoyado en material de CCSS',
     version:  '1.0',
     year:     '2025',
     system:   'CCSS | SAP ERP Módulo MM + SIGES/SIFA'
