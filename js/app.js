@@ -331,13 +331,13 @@ function renderHome() {
       <p>Manual de aprendizaje progresivo en <strong style="color:var(--text-primary)">6 fases y 26 semanas</strong>
       para la Jefatura de Almacén Local de Medicamentos de la CCSS. Cubre desde la orientación institucional
       hasta el dominio de SAP ERP Módulo MM, incluyendo comparativas completas con los sistemas SIGES, SIFA y SICS.</p>
-      <p style="margin-top:10px">Elaborado para el <strong style="color:var(--text-primary)">Área de Salud Goicoechea 1</strong>
-      por Nelson Fallas Rodríguez.</p>
+      <p style="margin-top:10px">Elaborado para <strong style="color:var(--text-primary)">Jefaturas de ALM CCSS</strong>
+      con la colaboracion del manual de Nelson Fallas Rodriguez Dev by NelSystems.</p>
       <div style="margin-top:14px;display:flex;gap:8px;flex-wrap:wrap">
         <span class="hero-chip">📱 Funciona sin conexión (PWA)</span>
         <span class="hero-chip">🔍 Búsqueda instantánea</span>
         <span class="hero-chip">✅ Seguimiento de progreso</span>
-        <span class="hero-chip">v1.0 · 2025</span>
+        <span class="hero-chip">v1.0 · 2026</span>
       </div>
     </div>
   `);
