@@ -3,7 +3,7 @@
    NelSystems | Cache-first + Network fallback strategy
    ============================================================ */
 
-const CACHE_NAME   = 'manual-alm-v1.3';
+const CACHE_NAME   = 'manual-alm-v1.4';
 const STATIC_CACHE = 'manual-alm-static-v1.2';
 const DATA_CACHE   = 'manual-alm-data-v1.2';
 
